@@ -7,3 +7,8 @@ System font: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display
 Budget: None yet!
 
 Special Features/Suggestions We're Using: None yet! (make a suggestion issue please)
+
+# TO-DO
+* Rebuild and make moss linux based.
+
+* Run debian on my (callmeclover's) computer and build from there.
