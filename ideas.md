@@ -1,12 +1,12 @@
 # updates
 
-.02 -- The (kinda) colorful update
+.02 -- The “Screw it, Restart From Scratch” Update
 
-.03 -- The sounds update
+.03 -- 
 
-.04 -- The  update
+.04 -- 
 
-.05 -- The (actually) colorful update
+.05 -- 
 
 .06 --
 
