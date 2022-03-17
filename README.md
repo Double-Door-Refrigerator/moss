@@ -1,6 +1,5 @@
 ![alt text](https://github.com/callmeclover/mOSs/blob/16ebdaee432ad1ef0e280e4258a0cb948a7de844/moss.png "Logo Title Text 1")
-
-Yes, this is an operating system named moss. This is dumb. This is stupid. Please help me on this. 
+moss is here! And we are working hard to make a new version! The old version exists on callmeclover's account.
 ##  Info
 System font: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display?category=Sans+Serif,Monospace&vfonly=true&preview.text=mOSs&preview.text_type=custom#standard-styles)
 
@@ -17,4 +16,4 @@ Special Features/Suggestions We're Using: None yet! (make a suggestion issue ple
 # TO-DO
 * Rebuild and make moss linux based.
 
-* Run debian on my (callmeclover's) computer and build from there.
+* Run debian on callmeclover's computer and build from there.
