@@ -6,6 +6,8 @@ System font: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display
 
 Budget: None yet!
 
+Based on: Linux Debian
+
 Special Features/Suggestions We're Using: None yet! (make a suggestion issue please)
 
 ### Team Members
