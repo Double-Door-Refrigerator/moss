@@ -8,6 +8,10 @@ Budget: None yet!
 
 Special Features/Suggestions We're Using: None yet! (make a suggestion issue please)
 
+### Team Members
+* callmeclover -- Main Programmer
+* LegoBonzaiTree -- Artist? Artist.
+
 # TO-DO
 * Rebuild and make moss linux based.
 
