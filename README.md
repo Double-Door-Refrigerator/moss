@@ -6,7 +6,7 @@ System font: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display
 
 Budget: None yet!
 
-Based on: Linux Debian
+Based on: Linux
 
 Special Features/Suggestions We're Using: None yet! (make a suggestion issue please)
 
@@ -15,6 +15,5 @@ Special Features/Suggestions We're Using: None yet! (make a suggestion issue ple
 * LegoBonzaiTree -- Artist? Artist.
 
 # TO-DO
-* Rebuild and make moss linux based.
-
-* Run debian on callmeclover's computer and build from there.
+- [ ] Rebuild and make moss linux based.
+- [ ] Make a running .iso for moss.01.
