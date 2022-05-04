@@ -8,3 +8,7 @@ Here are basic security guidelines.
 | moss.01       | Probably not  | Yes   |
 | moss.02       |               |       |
 | moss.03       |               |       |
+
+## Reporting a Vulnerability
+
+* If you find ANY security issues, **REPORT THEM IMMEDIATELY!** This can be done by making an issue, or, when we add it, through our website! And please, **DO NOT REPORT THEM IN ANY OTHER WAY!** If people know about it, they can do really, really bad things!
